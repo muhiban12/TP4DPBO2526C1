@@ -1,7 +1,7 @@
 # TP4 DPBO 2025/2026 - PeopleData (Java Swing GUI)
 
 ## Janji
-Saya Muhiban Fadlan Nursaid mengerjakan evaluasi Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Muhiban Fadlan Nursaid dengan NIM 2400382 mengerjakan evaluasi Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Program
 Aplikasi desktop berbasis **Java Swing GUI** yang mengelola data orang/karyawan (`PeopleData`) dengan menerapkan fungsi CRUD (*Create, Read, Update, Delete*). Aplikasi ini dibangun memanfaatkan IntelliJ IDEA Swing UI Designer dengan arsitektur berorientasi objek yang rapi dan terstruktur.

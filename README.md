@@ -24,9 +24,8 @@ PeopleData/
 │   ├── PeopleMenu.java
 │   └── PeopleMenu.form
 ├── Dokumentasi/
-│   ├── add_data.png
-│   ├── update_data.png
-│   ├── confirm_delete.png
-│   └── delete_data.png
+│   ├── before_add.png
+│   ├── after_add.png
+│   └── after_delete.png
 ├── .gitignore
 └── README.md
